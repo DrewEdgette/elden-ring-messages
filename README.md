@@ -1,4 +1,4 @@
-# elden-ring-messages
+# All Possible Elden Ring Message Combinations
 Generates all possible message combinations in the game Elden Ring.
 
 In Elden Ring and other Souls games, players can leave messages for each other to find by selecting pairs of pre-written words and phrases in the menu. A message must always have at least one template-word pairing, but it can also have two pairs connected by a conjunction.
