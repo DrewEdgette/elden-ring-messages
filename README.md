@@ -16,3 +16,5 @@ Once you add a second phrase, you have to multiply the original set by itself, t
 9075 x 9075 x 10 + 9075
 
 This brings the possible combinations to a grand total of 823,565,325.
+
+You won't find the two-pair phrases here because the dataset was just too large to get onto github, but feel free to generate them yourself with the code or have fun using the randomizer.
