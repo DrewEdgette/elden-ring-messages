@@ -12,6 +12,7 @@ Given that there are 25 templates and 363 words to choose from, this means that 
 ![single-phrase-list](https://media.discordapp.net/attachments/652178351699787792/947636147067179048/Screenshot_108.png?width=1270&height=671)
 
 Once you add a second phrase, you have to multiply the original set by itself, then multiply it by the conjunctions and add the original set.
+
 9075 x 9075 x 10 + 9075
 
 This brings the possible combinations to a grand total of 823,565,325.
