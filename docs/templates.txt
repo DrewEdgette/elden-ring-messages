@@ -1,0 +1,25 @@
+{0} ahead
+No {0} ahead
+{0} required ahead
+Be wary of {0}
+Try {0}
+Likely {0}
+First off, {0}
+Seek {0}
+Still no {0}...
+Why is it always {0}?
+If only I had a {0}...
+Didn't expect {0}...
+Visions of {0}...
+Could this be a {0}?
+Time for {0}
+{0}, O {0}
+behold, {0}!
+Offer {0}
+Praise the {0}!
+Let there be {0}
+Ahh, {0}...
+{0}
+{0}!
+{0}?
+{0}...
